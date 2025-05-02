@@ -1,7 +1,7 @@
 # 🐛 Bug Tracker App
 
 A simple and intuitive bug tracking application built using **React**, **Vite**, **Tailwind CSS**, and **JSON Server** as a fake REST API. The app allows users to manage software bugs with basic CRUD functionality.
-
+Live Preview - https://bug-tracker-app-git-master-invincible-adis-projects.vercel.app/
 ---
 
 ## 🚀 Setup Instructions
